@@ -1,0 +1,9 @@
+# packages for this homework1
+import pandas as pd  # data processing
+import numpy as np   # N-DIMENSIONAL ARRAYS
+import seaborn as sns             # visualizations
+import matplotlib.pyplot as plt   # visualizations
+from sklearn.neighbors import KNeighborsClassifier      # KNN algorithm
+from sklearn import metrics        # confusion matrix
+from sklearn.model_selection import learning_curve   #learning curve
+from sklearn.neighbors import DistanceMetric   #different distance methods
